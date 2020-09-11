@@ -19,7 +19,7 @@ namespace pr1_z1
     }
 
   }
-  class Program
+  class ypr1
   {
     static void Main(string[] args)
     {
